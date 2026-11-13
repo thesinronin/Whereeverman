@@ -1,0 +1,6 @@
+{
+  "name": "where ever",
+  "description": "Mobile-first GPS food roulette app that discovers places to eat within your chosen radius and spins a tactile roulette wheel to pick your next meal.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
